@@ -1,0 +1,2 @@
+
+ALTER TABLE tournaments ADD COLUMN year INTEGER;
